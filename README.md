@@ -2,7 +2,7 @@
 
 所有帖子请发表到 https://github.com/getlantern/forum/issues ，请点击左上方的”Issues“进入
 
-本论坛可进行任何关于蓝灯(Lantern)的讨论。
+本论坛可进行任何关于蓝灯(Lantern)以及关于翻墙软件的讨论。
 
 你可以在右上角“sign up” 注册账号。 通过邮件验证后，请点击 https://github.com/getlantern/forum/issues 回到论坛。
 
