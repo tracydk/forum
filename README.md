@@ -8,7 +8,7 @@
 
 在论坛内，可用右上角使用“New issue” 发新帖，或者在帖内使用“Comment”回复
 
-# 蓝灯[Lantern]最新版本下载
+# 蓝灯(Lantern)最新版本下载
 
 [Windows 版本(要求XP SP3以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe) 
 
