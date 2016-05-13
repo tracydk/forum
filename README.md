@@ -22,4 +22,4 @@
 
 安卓版也可从Google Play下载 https://play.google.com/store/apps/details?id=org.getlantern.lantern
 
-蓝灯[Lantern] 官方网站是 https://getlantern.org 其它网站均为假冒。
+蓝灯(Lantern)官方网站是 https://getlantern.org 其它网站均为假冒。
