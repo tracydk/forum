@@ -14,7 +14,7 @@
 
 [安卓版(要求4.1以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk) 
 
-[OSX (10.7及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.dmg) 
+[Mac OSX (10.7及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.dmg) 
 
 [Ubuntu 64位 (14.04及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-64.deb) 
 
