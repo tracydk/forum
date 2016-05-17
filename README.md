@@ -10,11 +10,11 @@
 
 # 蓝灯(Lantern)最新版本下载
 
-[Windows 版本(要求XP SP3以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe) [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer.exe) 
+[Windows 版本(要求XP SP3以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe)      [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer.exe) 
 
-[安卓版(要求4.1以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk)  [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer.apk) 
+[安卓版(要求4.1以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk)               [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer.apk) 
 
-[Mac OSX (10.7及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.dmg) [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer.dmg) 
+[Mac OSX (10.7及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.dmg)              [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer.dmg) 
 
 [Ubuntu 64位 (14.04及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-64.deb) [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer-64.deb) 
 
