@@ -20,7 +20,7 @@
 
 [Ubuntu 32位(14.04及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-32.deb)  [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer-32.deb) 
 
-安卓版也可从Google Play下载 https://play.google.com/store/apps/details?id=org.getlantern.lantern
+安卓版也可从[Google Play下载](https://play.google.com/store/apps/details?id=org.getlantern.lantern)
 
 [Mega网盘下载](https://mega.nz/#F!MRhXVIAL!hLyLBQlT0oypcyykqHc-aw) (只能用Chrome或火狐下载)  
 
