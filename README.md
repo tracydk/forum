@@ -22,6 +22,7 @@
 
 安卓版也可从[Google Play下载](https://play.google.com/store/apps/details?id=org.getlantern.lantern)
 
+[Sync网盘下载](https://ln.sync.com/dl/8d3e0f650#jm5ygm7p-qceg64ka-9pdwj8fh-vdzgsayz)
 [Mega网盘下载](https://mega.nz/#F!MRhXVIAL!hLyLBQlT0oypcyykqHc-aw) (只能用Chrome或火狐下载)  
 
 蓝灯(Lantern)官方网站是 https://getlantern.org 其它网站均为假冒。
