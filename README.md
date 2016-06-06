@@ -6,7 +6,7 @@
 
 你可以在右上角“sign up” 注册账号。 通过邮件验证后，请点击 https://github.com/getlantern/forum/issues 回到论坛。
 
-在论坛内，可用右上角使用“New issue” 发新帖，或者在帖内使用“Comment”回复
+在论坛内，可用右上角使用“New issue” 发新帖，或者在帖内使用“Comment”回复。删除自己发的主题，请在帖子右下角点击Close issue。这个是论坛所以即使在帖子讨论完毕后，也不要删除。  
 
 # 蓝灯(Lantern)最新版本下载
 
