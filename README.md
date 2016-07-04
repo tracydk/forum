@@ -12,15 +12,15 @@
 
 # 蓝灯(Lantern)最新版本下载
 
-[Windows 版本(要求XP SP3以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-3.0.3.exe)      [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer.exe)  
+[Windows 版本(要求XP SP3以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-3.0.4.exe)      [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer.exe)  
 
-[安卓版(要求4.1以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-3.0.3.apk)               [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer.apk) **请勿使用UC浏览器点击下载，会被替换成假的有广告的版本**
+[安卓版(要求4.1以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-3.0.4.apk)               [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer.apk) **请勿使用UC浏览器点击下载，会被替换成假的有广告的版本**
 
-[macOS (10.7及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-3.0.3.dmg)              [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer.dmg) 
+[macOS (10.7及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-3.0.4.dmg)              [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer.dmg) 
 
-[Ubuntu 64位 (14.04及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-3.0.3-64-bit.deb) [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer-64.deb) 
+[Ubuntu 64位 (14.04及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-3.0.4-64-bit.deb) [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer-64.deb) 
 
-[Ubuntu 32位(14.04及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-3.0.3-32-bit.debb)  [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer-32.deb) 
+[Ubuntu 32位(14.04及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-3.0.4-32-bit.debb)  [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer-32.deb) 
 
 安卓版也可从[Google Play下载](https://play.google.com/store/apps/details?id=org.getlantern.lantern)
 
