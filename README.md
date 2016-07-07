@@ -7,7 +7,7 @@
 在论坛内，可用右上角使用“New issue” 发新帖，或者在帖内使用“Comment”回复。
 
 ### 版规
-本论坛可进行任何关于蓝灯(Lantern)以及关于其它翻墙的讨论。因为版面有限，请不要重复发帖，也请不要在开新帖发表邀请码。邀请码请发表到[汇总贴](https://github.com/getlantern/forum/issues/313)或其他论坛。 **[关于蓝灯的问题，请上传log。](https://github.com/getlantern/forum/issues/358)**
+本论坛可进行任何关于蓝灯(Lantern)以及关于其它翻墙的讨论。请先阅读[蓝灯精华帖索引](https://github.com/getlantern/forum/issues/362)因为版面有限，请不要重复发帖，也请不要在开新帖发表邀请码。邀请码请发表到[汇总贴](https://github.com/getlantern/forum/issues/313)或其他论坛。 **[关于蓝灯的问题，请上传log。](https://github.com/getlantern/forum/issues/358)**
 
 
 # 蓝灯(Lantern)最新版本下载
