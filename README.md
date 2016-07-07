@@ -1,6 +1,6 @@
 # 蓝灯(Lantern)官方论坛
 
-所有帖子请发表到 https://github.com/getlantern/forum/issues ，请点击左上方的”Issues“进入
+**[帖子页面请点这里进入](https://github.com/getlantern/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)**
 
 你可以在右上角“sign up” 注册账号。 通过邮件验证后，请点击 https://github.com/getlantern/forum/issues 回到论坛。
 
