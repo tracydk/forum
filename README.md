@@ -11,6 +11,7 @@
 
 
 # 蓝灯(Lantern)最新版本下载
+现有版本是3.0.6
 
 [Windows 版本(要求XP SP3以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-3.0.6.exe)      [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer.exe)  
 
