@@ -21,6 +21,8 @@
 
 [macOS (10.7及以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.dmg)              [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer-beta.dmg) 
 
+[其他系统下载](https://github.com/getlantern/forum/issues/833)
+
 [SpiderOak网盘下载](https://spideroak.com/browse/share/Lantern/Lantern/Lantern/)
 [Sync网盘下载](https://ln.sync.com/dl/8d3e0f650#jm5ygm7p-qceg64ka-9pdwj8fh-vdzgsayz)
 [PCloud网盘下载](https://my.pcloud.com/publink/show?code=kZIMTbZJgCQenumrdBnSlKFVof1lXTqMQ4V)
