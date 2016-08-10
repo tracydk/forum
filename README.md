@@ -16,17 +16,13 @@
 # 蓝灯(Lantern)最新版本下载
 
 最新版本是3.0.7
+
 [Windows 版本(要求XP SP3以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.exe)      [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer-beta.exe)  
 
 最新版本是3.0.12
+
 [安卓版(要求4.1以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.apk)               [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer-beta.apk) **请勿使用UC浏览器点击下载，会被替换成假的有广告的版本**  [Google Play下载](https://play.google.com/store/apps/details?id=org.getlantern.lantern)
 
 [其他系统下载](https://github.com/getlantern/forum/issues/833)
 
-[SpiderOak网盘下载](https://spideroak.com/browse/share/Lantern/Lantern/Lantern/)
-[Sync网盘下载](https://ln.sync.com/dl/8d3e0f650#jm5ygm7p-qceg64ka-9pdwj8fh-vdzgsayz)
-[PCloud网盘下载](https://my.pcloud.com/publink/show?code=kZIMTbZJgCQenumrdBnSlKFVof1lXTqMQ4V)
-[Evernote下载](https://www.evernote.com/shard/s510/sh/93cabf92-efe2-4d32-bc1c-04d7ceca6c0f/d4042644da931ff66f9a1071e1699163)
-[Mega网盘下载](https://mega.nz/#F!MRhXVIAL!hLyLBQlT0oypcyykqHc-aw)(只能用Chrome或火狐下载)  
-
-蓝灯(Lantern)官方网站是 https://getlantern.org 其它网站均为假冒。
+请大家收藏本页面，方便日后下载新版。
