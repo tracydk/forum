@@ -15,11 +15,11 @@
 
 # 蓝灯(Lantern)最新版本下载
 
-最新版本是3.0.7
+最新版本是3.1.0
 
 [Windows 版本(要求XP SP3以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.exe)      [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer-beta.exe)  
 
-最新版本是3.0.12
+最新版本是3.1.0
 
 [安卓版(要求4.1以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.apk)               [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer-beta.apk) **请勿使用UC浏览器点击下载，会被替换成假的有广告的版本**  [Google Play下载](https://play.google.com/store/apps/details?id=org.getlantern.lantern)
 
