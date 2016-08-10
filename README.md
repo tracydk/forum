@@ -1,5 +1,5 @@
 # 蓝灯(Lantern)官方论坛
-**🔴🔴🔴[蓝灯最新版本下载地址请点这里](https://github.com/getlantern/forum#蓝灯lantern最新版本下载)🔴🔴🔴**
+**🔴[蓝灯最新版本下载地址请点这里]https://github.com/getlantern/forum/issues/833)🔴**
 
 [论坛帖子页面请点这里进入](https://github.com/getlantern/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)，或者点击左上方的Issues进入。
 
