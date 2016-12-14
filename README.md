@@ -12,7 +12,7 @@
 
 请大家收藏本页面，方便日后下载新版。
 
-### 因为蓝灯发展需要，现诚招代理商。有兴趣的，请发Email到 percy[at]getlantern.org 咨询详情。
+### 因为蓝灯发展需要，现诚招代理商。有兴趣的，请发Email到 percy00[at]protonmail.com 咨询详情。
 
 ## 蓝灯官方论坛
 
