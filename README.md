@@ -4,9 +4,9 @@
 
 最新版本是3.6.x
 
-[Windows 版本(要求XP SP3以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe)      [备用地址](https://s3.amazonaws.com/lantern/lantern-installer-beta.exe)  
+[Windows 版本(要求XP SP3以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe)      [备用地址](https://s3.amazonaws.com/lantern/lantern-installer.exe)  
 
-[安卓版(要求4.1以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.apk)               [备用地址](https://s3.amazonaws.com/lantern/lantern-installer.apk)  [Google Play下载](https://play.google.com/store/apps/details?id=org.getlantern.lantern) **请勿使用UC浏览器点击下载，会被替换成假的有广告的版本** 
+[安卓版(要求4.1以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk)               [备用地址](https://s3.amazonaws.com/lantern/lantern-installer.apk)  [Google Play下载](https://play.google.com/store/apps/details?id=org.getlantern.lantern) **请勿使用UC浏览器点击下载，会被替换成假的有广告的版本** 
 
 [其他系统下载](https://github.com/getlantern/forum/issues/833)
 
