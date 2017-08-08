@@ -12,7 +12,7 @@
 
 请大家收藏本页面，方便日后下载新版。
 
-## [申请成为蓝灯代理商](https://github.com/getlantern/forum/issues/3644)
+### 点这里[申请成为蓝灯代理商](https://github.com/getlantern/forum/issues/3644)
 
 ## 蓝灯官方论坛
 
