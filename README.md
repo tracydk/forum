@@ -26,5 +26,5 @@
 本论坛可进行关于蓝灯(Lantern)翻墙软件的讨论。🔴提问前，请先阅读[蓝灯精华帖](https://github.com/getlantern/forum/issues?q=is%3Aopen+is%3Aissue+label%3A%E7%B2%BE%E5%8D%8E)。**[使用蓝灯遇到问题，请使用发帖格式报告](https://github.com/getlantern/forum/issues/3536)** 🔴
 
 因为版面有限，请不要重复发帖，也请不要在开新帖发表邀请码。邀请码请发表到[汇总贴](https://github.com/getlantern/forum/issues/313)或其他论坛。
-禁止广告帖，包括非官方的讨论群。禁止刷版，人身攻击等恶劣行为。
+禁止广告帖，包括非官方的讨论群。禁止刷版，人身攻击等恶劣行为。屡次违反版规会禁言甚至封号。
 
