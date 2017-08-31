@@ -2,7 +2,7 @@
 
 **🔴[蓝灯最新版本下载地址请点这里](https://github.com/getlantern/forum/issues/833)🔴**
 
-最新版本是3.7.x
+最新版本是4.x
 
 [Windows 版本(要求XP SP3以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe)      [备用地址](https://s3.amazonaws.com/lantern/lantern-installer.exe)  
 
