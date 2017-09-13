@@ -19,12 +19,9 @@
 
 **🔴[蓝灯最新版本下载地址请点这里](https://github.com/getlantern/forum/issues/833)🔴**
 
-最新版本是4.x
-
 [Windows 版本(要求XP SP3以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe)      [备用地址](https://s3.amazonaws.com/lantern/lantern-installer.exe)  
 
 [安卓版(要求4.1以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk)               [备用地址](https://s3.amazonaws.com/lantern/lantern-installer.apk)  [Google Play下载](https://play.google.com/store/apps/details?id=org.getlantern.lantern) 
 
 [其他系统下载](https://github.com/getlantern/forum/issues/833)
 
-请大家收藏本页面，方便日后下载新版。
