@@ -1,4 +1,4 @@
-请在发帖前先按照蓝灯无法使用的解决办法 https://github.com/getlantern/forum/issues/1902 自行解决。自行解决问题通常只需要几十分钟。管理员调查解决问题需要几天至几周。请立即访问https://github.com/getlantern/forum/issues/1902 
+请在发帖前先按照蓝灯无法使用的解决办法 https://github.com/getlantern/forum/issues/1902 自行解决。自行解决问题通常只需要几十分钟。管理员调查解决问题需要几天至几周。请立即访问https://github.com/getlantern/forum/issues/1902 瞬间解决98%的问题
 
 为了能在最快的时间内解决大家使用蓝灯遇到的问题，请各位用户严格按照发帖格式提交问题。
 
