@@ -12,8 +12,6 @@
 
 请大家收藏本页面，方便日后下载新版。
 
-### 点这里[申请成为蓝灯代理商](https://github.com/getlantern/forum/issues/3644)
-
 ## 蓝灯官方论坛
 
 [论坛帖子页面请点这里进入](https://github.com/getlantern/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)，或者点击左上方的Issues进入。
