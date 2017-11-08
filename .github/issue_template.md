@@ -13,7 +13,7 @@
 
 
 ----
-请不要发只有邀请码没有其他内容的帖子,违反者将扣除所有赠送时间。具体见 https://github.com/getlantern/forum/issues/3773
+邀请码在本论坛请以签名形式发布或发到其他论坛。。具体见 https://github.com/getlantern/forum/issues/3773
 
 
 
