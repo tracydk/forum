@@ -18,7 +18,7 @@
 **使用遇到问题，请阅读[蓝灯无法使用的解决办法](https://github.com/getlantern/forum/issues/1902)。** 
 🔴
 
-[论坛讨论贴页面请点这里进入](https://github.com/getlantern/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)，或者点击左上方的Issues进入。
+[论坛讨论页面请点这里进入](https://github.com/getlantern/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)，或者点击左上方的Issues进入。
 
 你可以在右上角“sign up” 注册账号。 通过邮件验证后，请点击 https://github.com/getlantern/forum 回到论坛。
 
